@@ -2,7 +2,7 @@
 OpenCv ve Python ile yazmış olduğum Havza Algoritması.
 
 
-. Havza Algoritması 
+ Havza Algoritması 
         Havza, segmentasyon için, yani bir görüntüdeki farklı nesneleri ayırmak için kullanılan klasik bir algoritmadır. 
 Herhangi bir gri tonlamalı görüntü topografik yüzey alanı olarak düşünüldüğünde, RGB renk kodlama yöntemine göre yüksek yoğunluğun oluşturduğu noktalar zirveleri, 
 düşük yoğunluğun oluşturduğu noktalar ise vadileri ifade etmektedir. Örneğin; izole edilmiş her vadi yükseltilerini renklendirme işlemlerinde yerel minimum olarak 
